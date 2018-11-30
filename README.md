@@ -5,6 +5,7 @@ MyPictureStorage-Server : Back-end &amp; Data storage
 ## Skill set
 - Docker
 - Java Spring boot
+- MongoDB
 - HAProxy
 - AWS EC2
 
